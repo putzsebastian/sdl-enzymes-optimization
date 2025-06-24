@@ -1,5 +1,7 @@
 # Optimization algorithms for enzymatic reaction conditions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15730516.svg)](https://doi.org/10.5281/zenodo.15730516)
+
 This repository contains code, data and workflows for automated testing of multiple global optimization algorithms on enzyme kinetic data. The project accompanies the article:
 
 > **Optimized Machine Learning for Autonomous Enzymatic Reaction Intensification in a Self-driving Lab**  
