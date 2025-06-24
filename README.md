@@ -43,4 +43,4 @@ These tools are applied to maximize enzyme activity in simulated experimental ca
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
