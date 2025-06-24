@@ -26,20 +26,20 @@ These tools are applied to maximize enzyme activity in simulated experimental ca
 ### 1. Clone the repository
 
 - Open a terminal and run: 
-- git clone [https://github.com/<your-username>/<your-repo>](https://github.com/putzsebastian/sdl-enzymes-optimization).git
+- git clone https://github.com/putzsebastian/sdl-enzymes-optimization.git
 - cd <your-repo>
 
 ### 2. Create and activate the environment
-Make sure to have Anaconda or Miniconda installed. Then run:
-conda env create -f environment.yml
-conda activate biocar-enzyme-opt
+- Make sure to have Anaconda or Miniconda installed. Then run:
+- conda env create -f environment.yml
+- conda activate biocar-enzyme-opt
 
 ## Usage
-You can execute the python files in /scripts/ directly.
-For BO, PSO, GA and SA scripts for grid search of optimal hyperparameters as well as for testing fixed hyperparameters with fixed number of iterations are included.
-For RSM and RS scripts for a fixed number of iterations only are included.
-Feel free to play around and edit the scripts to vary hyperparameters of the algorithms, number of iterations etc.
-You can also implement your own optimization algorithms locally and test it on the dataset, or adapt to use your own dataset and test which algorithm is best.
+- You can execute the python files in /scripts/ directly.
+- For BO, PSO, GA and SA scripts for grid search of optimal hyperparameters as well as for testing fixed hyperparameters with fixed number of iterations are included.
+- For RSM and RS scripts for a fixed number of iterations only are included.
+- Feel free to play around and edit the scripts to vary hyperparameters of the algorithms, number of iterations etc.
+- You can also implement your own optimization algorithms locally and test it on the dataset, or adapt to use your own dataset and test which algorithm is best.
 
 ## License
 
