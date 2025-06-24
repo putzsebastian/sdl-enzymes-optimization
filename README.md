@@ -3,7 +3,7 @@
 This repository contains code, data and workflows for automated testing of multiple global optimization algorithms on enzyme kinetic data. The project accompanies the article:
 
 > **Optimized Machine Learning for Autonomous Enzymatic Reaction Intensification in a Self-driving Lab**  
-> [Author(s): Add your name(s) here]  
+> Sebastian Putz, Niklas Teetz, Michael Abt, Pascal Jerono, Thomas Meurer, Matthias Franzreb* 
 
 ---
 
