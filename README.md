@@ -27,10 +27,9 @@ These tools are applied to maximize enzyme activity in simulated experimental ca
 
 - Open a terminal and run: 
 - git clone https://github.com/putzsebastian/sdl-enzymes-optimization.git
-- cd <your-repo>
 
 ### 2. Create and activate the environment
-- Make sure to have Anaconda or Miniconda installed. Then run:
+- Make sure to have Anaconda or Miniconda installed. Then inside the repo run:
 - conda env create -f environment.yml
 - conda activate biocar-enzyme-opt
 
