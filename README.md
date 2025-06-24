@@ -25,9 +25,9 @@ These tools are applied to maximize enzyme activity in simulated experimental ca
 
 ### 1. Clone the repository
 
-Open a terminal and run: 
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+- Open a terminal and run: 
+- git clone [https://github.com/<your-username>/<your-repo>](https://github.com/putzsebastian/sdl-enzymes-optimization).git
+- cd <your-repo>
 
 ### 2. Create and activate the environment
 Make sure to have Anaconda or Miniconda installed. Then run:
